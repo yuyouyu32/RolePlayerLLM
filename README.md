@@ -1,6 +1,10 @@
 # SGLMAgent
 
-LLM Agent For SGA
+
+## 🦋 **LLM Agent For SGA**
+![Agent Framework](./Agent.png)
+**Online server framework:**
+![Online Server](./Online%20Server.jpg)
 
 ## 🚨 Preparation
 
@@ -112,7 +116,7 @@ python -m spacy download zh_core_web_sm
 cd op
 sh run_server.sh
   ```
-
+![Index Building](./Index.jpg)
     
 ### 6. 运行
 
@@ -165,3 +169,6 @@ python -m experiment.chat
     bot.clear()  //删除所有和目前session相关的数据库table
     ```
     - 4. 执行`python -m experiment.chat`
+
+### TODO SFT
+![SFT](./SFT.jpg)
