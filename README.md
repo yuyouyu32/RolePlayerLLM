@@ -170,5 +170,5 @@ python -m experiment.chat
     ```
     - 4. 执行`python -m experiment.chat`
 
-### TODO SFT
+### SFT
 ![SFT](./SFT.jpg)
