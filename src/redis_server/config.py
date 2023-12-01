@@ -1,0 +1,1 @@
+RedisConfigPath= "/mnt_data/redis_db/redis.conf"

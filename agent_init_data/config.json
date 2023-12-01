@@ -1,0 +1,5 @@
+{
+  "persona_keys": ["name", "background", "persona", "style", "talk_examples", "intention"],
+  "status_keys":  ["relationship", "happy", "angry", "fear", "location", "action", "thought", "plan", "recent_story", "all_story"]
+}
+
